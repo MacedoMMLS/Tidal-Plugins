@@ -1,0 +1,9 @@
+{
+	"displayName": "Song Downloader",
+	"description": "Download tidal songs as FLAC files.",
+	"author": "Inrixia",
+	"main": "./src/index.js",
+	"dependencies": {
+		"@inrixia/lib": "workspace:*"
+	}
+}

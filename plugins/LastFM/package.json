@@ -1,0 +1,9 @@
+{
+	"displayName": "LastFM",
+	"description": "Custom LastFM scrobbler",
+	"author": "Inrixia",
+	"main": "./src/index.js",
+	"dependencies": {
+		"@inrixia/lib": "workspace:*"
+	}
+}
